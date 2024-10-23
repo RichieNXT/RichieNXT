@@ -1,5 +1,5 @@
 # 💫 About Me:
-bruh<br>
+Bruh<br>
 
 
 # 💻 Tech Stack:
