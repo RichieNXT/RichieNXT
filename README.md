@@ -4,7 +4,6 @@
 
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hejazizo@ualberta.ca)
 
 [![Github](https://img.shields.io/github/followers/RichieNXT?label=Follow&style=social)](https://github.com/RichieNXT)
 
