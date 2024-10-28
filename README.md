@@ -17,4 +17,4 @@ Bruh
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RichieNXT&show_icons=true&locale=en&layout=compact" alt="RichieNXT" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=RichieNXT&" alt="RichieNXT" />
 </div>
-![](https://github-trophies.vercel.app/?username=RichieNXT&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+[!](https://github-trophies.vercel.app/?username=RichieNXT&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
