@@ -14,6 +14,6 @@ Bruh
 ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=C#&color=353535) ![Bootstrap](https://img.shields.io/badge/-.Net-05122A?style=flat-square&logo=.Net&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Oracle-05122A?style=flat-square&logo=Oracle&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Trello-05122A?style=flat-square&logo=Trello&color=353535)
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RichieNXT&show_icons=true&locale=en&layout=compact" alt="RichieNXT" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=RichieNXT&" alt="RichieNXT" />
+
+ 
 </div>
