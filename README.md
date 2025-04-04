@@ -1,5 +1,3 @@
-![🗿 RichieNXT 🗿]()
-
 ![Profile views](https://komarev.com/ghpvc/?username=RichieNXT&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
